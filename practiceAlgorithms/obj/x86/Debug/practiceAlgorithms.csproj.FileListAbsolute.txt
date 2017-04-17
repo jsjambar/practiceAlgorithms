@@ -1,0 +1,4 @@
+/Users/jase/Projects/practiceAlgorithms/practiceAlgorithms/bin/Debug/practiceAlgorithms.exe
+/Users/jase/Projects/practiceAlgorithms/practiceAlgorithms/bin/Debug/practiceAlgorithms.exe.mdb
+/Users/jase/Projects/practiceAlgorithms/practiceAlgorithms/obj/x86/Debug/practiceAlgorithms.exe
+/Users/jase/Projects/practiceAlgorithms/practiceAlgorithms/obj/x86/Debug/practiceAlgorithms.exe.mdb
